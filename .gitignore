@@ -3,9 +3,9 @@ node_modules
 coverage
 coverage.json
 typechain
-addressdict
-flatten
-tokenid
+addressdict.json
+flatten.sol
+tokenid.js
 README
 
 #Hardhat files
